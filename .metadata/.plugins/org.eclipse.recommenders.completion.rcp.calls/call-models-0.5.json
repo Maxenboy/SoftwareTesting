@@ -1,0 +1,22 @@
+{
+  "C:\\Users\\Max\\Desktop\\Plugg\\eclipse\\Testning\\lab1\\src\\trianglepackage\\junit-4.11.jar": {
+    "location": "C:\\Users\\Max\\Desktop\\Plugg\\eclipse\\Testning\\lab1\\src\\trianglepackage\\junit-4.11.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Users\\Max\\Desktop\\Plugg\\eclipse\\Testning\\lab1\\src\\trianglepackage\\junit-4.11.jar\u0027. Neither fingerprint \u00274e031bb61df09069aeb2bffb4019e7a5034a4ee0\u0027 nor symbolic name \u0027junit-4.11\u0027 are known."
+  },
+  "C:\\Users\\Max\\Desktop\\Plugg\\eclipse\\Testning\\lab1\\src": {
+    "location": "C:\\Users\\Max\\Desktop\\Plugg\\eclipse\\Testning\\lab1\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\Max\\Desktop\\Plugg\\eclipse\\Testning\\lab1\\src\u0027. Skipped."
+  },
+  "C:\\Users\\Max\\Desktop\\Plugg\\eclipse\\Testning\\lab2\\src": {
+    "location": "C:\\Users\\Max\\Desktop\\Plugg\\eclipse\\Testning\\lab2\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\Max\\Desktop\\Plugg\\eclipse\\Testning\\lab2\\src\u0027. Skipped."
+  },
+  "C:\\eclipse\\plugins\\org.junit_4.11.0.v201303080030\\junit.jar": {
+    "location": "C:\\eclipse\\plugins\\org.junit_4.11.0.v201303080030\\junit.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\eclipse\\plugins\\org.junit_4.11.0.v201303080030\\junit.jar\u0027. Neither fingerprint \u00274e031bb61df09069aeb2bffb4019e7a5034a4ee0\u0027 nor symbolic name \u0027junit\u0027 are known."
+  }
+}
